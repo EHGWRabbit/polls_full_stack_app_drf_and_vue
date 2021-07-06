@@ -1,1 +1,1 @@
-# simple_votes_app_DRF_and_VIe
+# full-stack-app-django-rest-framework-with-vue
